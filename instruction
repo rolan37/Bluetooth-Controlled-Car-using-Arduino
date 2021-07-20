@@ -1,0 +1,6 @@
+What is a Bluetooth?
+Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances using UHF radio waves in the ISM bands, from 2.402 GHz to 2.48 GHz, and building personal area networks (PANs).
+
+In this project, I have interfaced a Bluetooth with Arduino that controls the Motors to drive the 4WD Robot. With the help of the Android App we can transmit signals to move the robot. 
+The Signals then can instruct the robot to move Forward, Backward, Left or Right.
+Stop signal is also included.
